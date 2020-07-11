@@ -1,3 +1,1 @@
-# Introduction 
-My learnning about Python 
-
+# Python learning
