@@ -1,0 +1,21 @@
+Hello everybody, I am a test. Just few stuff in here.
+more information in here.
+Some more stuff in here.
+How about this?
+How about that?
+
+Ready for more hands-on, step-by-step Python fundamentals? Add to the foundational experience you got in the Introduction to Python:
+ Absolute Beginner, and explore data structures. Get lots of practice working with sample code in Jupyter Notebooks on Azure, 
+which require only a browser and an Internet connection.
+Focus on Python data structures, and work with string, list, and range sequences. Discover the power of list iteration, 
+and learn about string and list methods. From there, get the details on file input and output—open files, read them, add to them,
+ close them, and more. At the end of the course, you’ll be able to slice strings into substrings, create lists, iterate through them, 
+import files, and use file append mode, along with a lot of other practical Python tasks, as you get started coding.
+
+I’ve been working for Microsoft as a full-time employee since November 1998. Previously, 
+I worked at Microsoft for approximately two years as a contractor/vendor. Currently, I lead the 
+infrastructure and data architecture teams for Finance Business Intelligent group. I’m super excited for Azure,
+ especially since nowadays Azure supports Open Source technologies. I am sharing here some of my Azure and Growth Mindset learning.
+ I hope, this information is helpful. If you have any questions, please feel free to contact me.
+
+
